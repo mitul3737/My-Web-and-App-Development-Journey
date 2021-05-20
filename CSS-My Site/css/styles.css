@@ -1,0 +1,23 @@
+.top{
+  background-color: #e4f9f5;
+}
+body {
+margin:0;
+}
+
+h1{
+  margin:0;
+}
+.middle{
+  background-color: #30e3ca;
+  width: 200px;
+  height:200px;
+}
+.bottom{
+  background-color: #11999e;
+  width: 200px;
+  height:200px;
+}
+.undr{
+  text-decoration: underline;
+}

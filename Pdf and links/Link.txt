@@ -8,6 +8,7 @@ Mojile Developer Network: https://developer.mozilla.org/en-US/
 MDNhtml documentation: https://developer.mozilla.org/en-US/docs/Web/HTML/Elementhttps://developer.mozilla.org/en-US/docs/Web/HTML/Element
 PHOTO BUCKET: https://app.photobucket.com/explore
 Image crop : https://crop-circle.imageonline.co/
+HTML Reference: https://developer.mozilla.org/en-US/docs/Web/HTML
 
 CSS
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
@@ -15,3 +16,14 @@ Colour palets : https://colorhunt.co/
 CSS Colors from MDN :https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 Default css values : https://www.w3schools.com/cssref/css_default_values.asp
 Border style: https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+Emojipedia: https://emojipedia.org/
+CSS referenve from MDN: https://developer.mozilla.org/en-US/docs/Web/CSS
+Fevicon: https://www.favicon.cc/?
+
+Web design:
+choosing color palat (Adobe color): https://color.adobe.com/create/color-wheel
+Colour palets : https://colorhunt.co/
+
+
+Js:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
