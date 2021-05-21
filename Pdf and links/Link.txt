@@ -19,6 +19,15 @@ Border style: https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
 Emojipedia: https://emojipedia.org/
 CSS referenve from MDN: https://developer.mozilla.org/en-US/docs/Web/CSS
 Fevicon: https://www.favicon.cc/?
+Margin css mdn: https://developer.mozilla.org/en-US/docs/Web/CSS/margin
+Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
+       https://fonts.google.com/
+       https://www.cssfontstack.com/
+
+Awesome icon : https://www.flaticon.com/
+Giphy: https://giphy.com/
+
+
 
 Web design:
 choosing color palat (Adobe color): https://color.adobe.com/create/color-wheel

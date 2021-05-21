@@ -1,23 +1,58 @@
-.top{
+.top-container{
   background-color: #e4f9f5;
+  position:relative;
+  padding-top: 100px;
 }
 body {
 margin:0;
+text-align: center;
+font-family: 'Pattaya', sans-serif;
 }
 
 h1{
-  margin:0;
+  margin:50px auto o auto;
+  font-size: 5.625rem;
+  }
+
+h2{
+  font-family: 'Pattaya', sans-serif;
+  font-size: 2.5rem;
 }
-.middle{
-  background-color: #30e3ca;
-  width: 200px;
-  height:200px;
+
+h3{
+  font-family: 'Pattaya', sans-serif;
 }
-.bottom{
-  background-color: #11999e;
-  width: 200px;
-  height:200px;
+.middle-container{
+
+
+
+
 }
+.bottom-container{
+
+}
+
+
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+
+
+}
+
+
+/*.mountain{
+  position:absolute;
+  top: 200px;
+}*/
+
 .undr{
   text-decoration: underline;
 }
