@@ -26,7 +26,10 @@ Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
 
 Awesome icon : https://www.flaticon.com/
 Giphy: https://giphy.com/
-
+CSS Button creator: https://cssbuttoncreator.com/
+website practic : https://www.frontendmentor.io/solutions
+                  https://www.frontendmentor.io/activity
+                  https://www.frontendmentor.io/wall-of-fame
 
 
 Web design:
@@ -36,3 +39,7 @@ Colour palets : https://colorhunt.co/
 
 Js:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+Bootstrap:
+Codeply: https://www.codeply.com/
