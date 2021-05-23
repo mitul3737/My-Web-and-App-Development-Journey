@@ -32,14 +32,29 @@ website practic : https://www.frontendmentor.io/solutions
                   https://www.frontendmentor.io/wall-of-fame
 
 
+
+
 Web design:
 choosing color palat (Adobe color): https://color.adobe.com/create/color-wheel
 Colour palets : https://colorhunt.co/
 
 
-Js:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+Getting inspiration for websites: https://dribbble.com/search/website
+UI Patterns : http://ui-patterns.com/patterns
+Websites featured: https://www.awwwards.com/websites/com/
+Templates to download and plan website : https://sneakpeekit.com/
+Planning before creating a website (30 days free just): https://balsamiq.cloud/
+
 
 
 Bootstrap:
 Codeply: https://www.codeply.com/
+
+
+
+
+
+Js:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
