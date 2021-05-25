@@ -30,7 +30,7 @@ CSS Button creator: https://cssbuttoncreator.com/
 website practic : https://www.frontendmentor.io/solutions
                   https://www.frontendmentor.io/activity
                   https://www.frontendmentor.io/wall-of-fame
-
+rotate something: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate()
 
 
 
@@ -51,6 +51,7 @@ Planning before creating a website (30 days free just): https://balsamiq.cloud/
 
 Bootstrap:
 Codeply: https://www.codeply.com/
+Awesome icons : https://fontawesome.com/icons?d=gallery&p=2
 
 
 
@@ -58,3 +59,4 @@ Codeply: https://www.codeply.com/
 
 Js:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Fontawesome  logo website script link: <script src="https://kit.fontawesome.com/4eb71915b3.js" crossorigin="anonymous"></script>
