@@ -6,11 +6,21 @@ h3{
   font-family: "Montserrat";
 }
 
+h2{
+  font-family: "Montserrat";
+  font-size: 6rem;
+  line-height: 1.5;
+  padding-bottom: 50px;
+}
+p{
+  color: #8f8f8f;
+}
 
 #title{
 
   background-color: #ff4c68;
   color: #fff;
+  padding-bottom: 200px;
 }
 
 
@@ -40,22 +50,109 @@ h3{
 
 /*Title image*/
 .title-image{
-  width: 60%;
+
   transform: rotate(25deg);
+  position: absolute;
+
 }
 
 /*features logo*/
-.fa-check-circle,.fa-bullseye,.fa-heart{
+.icon{
   color:#ff8474;
   width: 250px;
+  margin-bottom: 10px;
 }
-
+ .icon:hover{
+   color: #ff4c68;
+ }
 
 /*Feature Section*/
 #features{
-  padding:7% 15%;
+  padding:7% 12%;
+  background-color: #fff;
+  position: relative;
+
 }
 .feature-box{
   text-align: center;
   padding: 5%;
+
+}
+
+
+/*Testimonials + slides show*/
+#testimonials{
+
+  text-align: center;
+
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+}
+
+/*press*/
+#press{
+  text-align: center;
+  background-color: #ff4c68;
+  padding-bottom: 3%
+}
+.Press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 100px 300px;
+}
+
+/*pricing*/
+#pricing{
+  padding: 100px;
+}
+.pricing-col{
+  padding:3% 2%;
+  text-align: center;
+}
+
+/*for other devices like mobile and pad, we have made some changes */
+@media (max-width:1028px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+
+
+/*call for action*/
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 50px 200px;
+
+
+}
+.ctah{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 3rem;
+  color: #fff;
+
+}
+
+
+/*footer*/
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding : 50px 200px;
+
+}
+.social{
+  margin:10px;
 }

@@ -52,6 +52,12 @@ Planning before creating a website (30 days free just): https://balsamiq.cloud/
 Bootstrap:
 Codeply: https://www.codeply.com/
 Awesome icons : https://fontawesome.com/icons?d=gallery&p=2
+Bootstrap slides show: https://getbootstrap.com/docs/5.0/components/carousel/
+Bootstrap Example: https://getbootstrap.com/docs/4.0/examples/
+                   https://bootsnipp.com/
+
+Mobile friendly test: https://search.google.com/test/mobile-friendly
+
 
 
 
