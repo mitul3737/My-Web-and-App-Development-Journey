@@ -37,6 +37,8 @@ rotate something: https://developer.mozilla.org/en-US/docs/Web/CSS/transform-fun
 Web design:
 choosing color palat (Adobe color): https://color.adobe.com/create/color-wheel
 Colour palets : https://colorhunt.co/
+Daily design practice for 100 days: https://www.dailyui.co/
+
 
 
 
@@ -64,5 +66,6 @@ Mobile friendly test: https://search.google.com/test/mobile-friendly
 
 
 Js:
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
+MDN  Documentation : https://developer.mozilla.org/en-US/docs/Web/JavaScript
 Fontawesome  logo website script link: <script src="https://kit.fontawesome.com/4eb71915b3.js" crossorigin="anonymous"></script>
+Snippets of Chrome developer Tools: inspect-- source --Filesystem--snippets--new snippets
